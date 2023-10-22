@@ -86,4 +86,8 @@ Configure the DB context to expose the relevant parts of the database to the mod
 
 ## Plugin Manifest
 
+<<<<<<< HEAD
 When running locally the plugin will be exposed at https://localhost:7012/.well-known/ai-plugin.json. CORS defaults to allowing ChatGPT as well as https://localhost:7012.
+=======
+When running locally the plugin will be exposed at https://localhost:5279/.well-known/ai-plugin.json. CORS defaults to allowing ChatGPT as well as https://localhost:5279.
+>>>>>>> 30b4335 (Adventureworks)
