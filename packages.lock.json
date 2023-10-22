@@ -23,18 +23,6 @@
           "Microsoft.OpenApi": "1.4.3"
         }
       },
-<<<<<<< HEAD
-      "Microsoft.EntityFrameworkCore.Sqlite": {
-        "type": "Direct",
-        "requested": "[7.0.11, )",
-        "resolved": "7.0.11",
-        "contentHash": "DFev72BUsvd+QI5aH+uwoXM8u3P1GwTsLToORj6CGQJrkd+8UukuSsCXOWxj0ThiGC11btcmjjFx4FGuB3F28g==",
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore.Sqlite.Core": "7.0.11",
-          "SQLitePCLRaw.bundle_e_sqlite3": "2.1.4"
-        }
-      },
-=======
       "Microsoft.EntityFrameworkCore.Design": {
         "type": "Direct",
         "requested": "[7.0.12, )",
@@ -67,7 +55,6 @@
           "Microsoft.EntityFrameworkCore.Relational": "7.0.12"
         }
       },
->>>>>>> 30b4335 (Adventureworks)
       "Microsoft.Extensions.Http.Polly": {
         "type": "Direct",
         "requested": "[7.0.11, )",
@@ -156,8 +143,6 @@
           "System.Threading.Tasks.Extensions": "4.5.4"
         }
       },
-<<<<<<< HEAD
-=======
       "Azure.Identity": {
         "type": "Transitive",
         "resolved": "1.7.0",
@@ -177,7 +162,6 @@
         "resolved": "2.14.1",
         "contentHash": "lQKvtaTDOXnoVJ20ibTuSIOf2i0uO0MPbDhd1jm238I+U/2ZnRENj0cktKZhtchBMtCUSRQ5v4xBCUbKNmyVMw=="
       },
->>>>>>> 30b4335 (Adventureworks)
       "Microsoft.Bcl.AsyncInterfaces": {
         "type": "Transitive",
         "resolved": "6.0.0",
@@ -188,12 +172,6 @@
         "resolved": "1.1.0",
         "contentHash": "J2G1k+u5unBV+aYcwxo94ip16Rkp65pgWFb0R6zwJipzWNMgvqlWeuI7/+R+e8bob66LnSG+llLJ+z8wI94cHg=="
       },
-<<<<<<< HEAD
-      "Microsoft.Data.Sqlite.Core": {
-        "type": "Transitive",
-        "resolved": "7.0.11",
-        "contentHash": "s7YzfqaP0lsfT2eUEYBHR+bP51fPIv1Xt02eh36/8be5MAYj/UaN8rX+GM5jc3dUqwZSxAsxkaU6ZlllqYtBhQ==",
-=======
       "Microsoft.CSharp": {
         "type": "Transitive",
         "resolved": "4.5.0",
@@ -228,26 +206,17 @@
         "type": "Transitive",
         "resolved": "7.0.12",
         "contentHash": "Y4nEJU7FKYW187VGN0yc71vikqjVhWvpxLkN1R340ONFNXyyFGjYlV3vnnyeGFrxQFBa7N4zJGhZfTFBSduamg==",
->>>>>>> 30b4335 (Adventureworks)
         "dependencies": {
           "SQLitePCLRaw.core": "2.1.4"
         }
       },
       "Microsoft.EntityFrameworkCore": {
         "type": "Transitive",
-<<<<<<< HEAD
-        "resolved": "7.0.11",
-        "contentHash": "r7YGITjQ7v1hYtUXIavjSx+T1itKVPUFAIBN7HaKNjbR8x+gep8w9H3NEchglJOh1woZR4b2MhbSo2YFRZwZDg==",
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore.Abstractions": "7.0.11",
-          "Microsoft.EntityFrameworkCore.Analyzers": "7.0.11",
-=======
         "resolved": "7.0.12",
         "contentHash": "HRge/bJ5SKMNeqybC4NnRwWZn69QBjVVoVmwhmJ8xgQ50Ye+jTOOf2mef/y4Lrq1HUeMg8cu+3JeFdnp+Y8skA==",
         "dependencies": {
           "Microsoft.EntityFrameworkCore.Abstractions": "7.0.12",
           "Microsoft.EntityFrameworkCore.Analyzers": "7.0.12",
->>>>>>> 30b4335 (Adventureworks)
           "Microsoft.Extensions.Caching.Memory": "7.0.0",
           "Microsoft.Extensions.DependencyInjection": "7.0.0",
           "Microsoft.Extensions.Logging": "7.0.0"
@@ -255,22 +224,6 @@
       },
       "Microsoft.EntityFrameworkCore.Abstractions": {
         "type": "Transitive",
-<<<<<<< HEAD
-        "resolved": "7.0.11",
-        "contentHash": "IoOnhycZ0/VtLowf0HgB0cujxwksokzkS3/5108AHOcbntHUTqwxtCjG4E4FCly/45G+mxb+4PxBdFZhA49lwQ=="
-      },
-      "Microsoft.EntityFrameworkCore.Analyzers": {
-        "type": "Transitive",
-        "resolved": "7.0.11",
-        "contentHash": "Qexum5safSSfijx6P1QSq5bVJPPTM/uf7lQmpL/shkiozEC/0FzqNaVUfFpbNN8zsO1jMFYbeDMF4cxJMlTT9w=="
-      },
-      "Microsoft.EntityFrameworkCore.Relational": {
-        "type": "Transitive",
-        "resolved": "7.0.11",
-        "contentHash": "yHEEyah1XARStV1SJOsdKj8ieoMCZ0MkNuQaLfWONMWmbqwuDohfGQZk/FuzdT4aO/lJrUYiXbBSFv0ACzphEw==",
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore": "7.0.11",
-=======
         "resolved": "7.0.12",
         "contentHash": "GDlY3DzUbpagqb0683NUM2RK9eJFjTfmlLJd5YtvzBf8T4dwanIOSjd2vN7dXJihyZ0JlYaCetyHgxzbrxiUOw=="
       },
@@ -285,25 +238,16 @@
         "contentHash": "apLzFyjM3s/voBiaMCJPwIOk5SxA1N6GmSbhqthfbUDn8mX+kxZl4RXNdaoBLzPKfUg4EoqCtt0YON/g9YXruQ==",
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "7.0.12",
->>>>>>> 30b4335 (Adventureworks)
           "Microsoft.Extensions.Configuration.Abstractions": "7.0.0"
         }
       },
       "Microsoft.EntityFrameworkCore.Sqlite.Core": {
         "type": "Transitive",
-<<<<<<< HEAD
-        "resolved": "7.0.11",
-        "contentHash": "2fAFxXMiMBq8h6AjR4gFi/fAlyIT6vIxUTXA+1I7qX2chLNvU+DABUCupsyQERWNaZmcfgnQMjgS2UiKi8pZVA==",
-        "dependencies": {
-          "Microsoft.Data.Sqlite.Core": "7.0.11",
-          "Microsoft.EntityFrameworkCore.Relational": "7.0.11",
-=======
         "resolved": "7.0.12",
         "contentHash": "gQTJeFE/faw7IFydil5y4eadxwnX1UQXzNsbuHjzg/paH7odCU297yaHa+VfTG7C9lPgPGYAZjYnJVk5WoIIjQ==",
         "dependencies": {
           "Microsoft.Data.Sqlite.Core": "7.0.12",
           "Microsoft.EntityFrameworkCore.Relational": "7.0.12",
->>>>>>> 30b4335 (Adventureworks)
           "Microsoft.Extensions.DependencyModel": "7.0.0"
         }
       },
@@ -403,8 +347,6 @@
         "resolved": "7.0.0",
         "contentHash": "um1KU5kxcRp3CNuI8o/GrZtD4AIOXDk+RLsytjZ9QPok3ttLUelLKpilVPuaFT3TFjOhSibUAso0odbOaCDj3Q=="
       },
-<<<<<<< HEAD
-=======
       "Microsoft.Identity.Client": {
         "type": "Transitive",
         "resolved": "4.47.2",
@@ -483,7 +425,6 @@
         "resolved": "1.1.0",
         "contentHash": "aOZA3BWfz9RXjpzt0sRJJMjAscAUm3Hoa4UWAfceV9UTYxgwZ1lZt5nO2myFf+/jetYQo4uTP7zS8sJY67BBxg=="
       },
->>>>>>> 30b4335 (Adventureworks)
       "Microsoft.OpenApi": {
         "type": "Transitive",
         "resolved": "1.4.3",
@@ -571,8 +512,6 @@
           "Microsoft.SemanticKernel.Abstractions": "0.24.230912.2-preview"
         }
       },
-<<<<<<< HEAD
-=======
       "Microsoft.SqlServer.Server": {
         "type": "Transitive",
         "resolved": "1.0.0",
@@ -591,7 +530,6 @@
           "System.CodeDom": "4.4.0"
         }
       },
->>>>>>> 30b4335 (Adventureworks)
       "Polly": {
         "type": "Transitive",
         "resolved": "7.2.4",
@@ -656,8 +594,6 @@
         "resolved": "6.5.0",
         "contentHash": "OvbvxX+wL8skxTBttcBsVxdh73Fag4xwqEU2edh4JMn7Ws/xJHnY/JB1e9RoCb6XpDxUF3hD9A0Z1lEUx40Pfw=="
       },
-<<<<<<< HEAD
-=======
       "System.CodeDom": {
         "type": "Transitive",
         "resolved": "4.4.0",
@@ -672,7 +608,6 @@
           "System.Security.Permissions": "6.0.0"
         }
       },
->>>>>>> 30b4335 (Adventureworks)
       "System.Diagnostics.DiagnosticSource": {
         "type": "Transitive",
         "resolved": "6.0.1",
@@ -681,12 +616,6 @@
           "System.Runtime.CompilerServices.Unsafe": "6.0.0"
         }
       },
-<<<<<<< HEAD
-      "System.Memory": {
-        "type": "Transitive",
-        "resolved": "4.5.3",
-        "contentHash": "3oDzvc/zzetpTKWMShs1AADwZjQ/36HnsufHRPcOjyRAAMLDlu2iD33MBI2opxnezcVUtXyqDXXjoFMOU9c7SA=="
-=======
       "System.Drawing.Common": {
         "type": "Transitive",
         "resolved": "6.0.0",
@@ -713,7 +642,6 @@
         "type": "Transitive",
         "resolved": "4.5.4",
         "contentHash": "1MbJTHS1lZ4bS4FmsJjnuGJOu88ZzTT2rLvrhW7Ygic+pC0NWA+3hgAen0HRdsocuQXCkUTdFn9yHJJhsijDXw=="
->>>>>>> 30b4335 (Adventureworks)
       },
       "System.Memory.Data": {
         "type": "Transitive",
@@ -729,8 +657,6 @@
         "resolved": "4.5.0",
         "contentHash": "QQTlPTl06J/iiDbJCiepZ4H//BVraReU4O4EoRw1U02H5TLUIT7xn3GnDp9AXPSlJUDyFs4uWjWafNX6WrAojQ=="
       },
-<<<<<<< HEAD
-=======
       "System.Runtime": {
         "type": "Transitive",
         "resolved": "4.3.0",
@@ -748,14 +674,11 @@
           "System.Configuration.ConfigurationManager": "6.0.0"
         }
       },
->>>>>>> 30b4335 (Adventureworks)
       "System.Runtime.CompilerServices.Unsafe": {
         "type": "Transitive",
         "resolved": "6.0.0",
         "contentHash": "/iUeP3tq1S0XdNNoMz5C9twLSrM/TH+qElHkXWaPvuNOt+99G75NrV0OS2EqHx5wMN7popYjpc8oTjC1y16DLg=="
       },
-<<<<<<< HEAD
-=======
       "System.Security.AccessControl": {
         "type": "Transitive",
         "resolved": "6.0.0",
@@ -806,7 +729,6 @@
           "System.Runtime.CompilerServices.Unsafe": "6.0.0"
         }
       },
->>>>>>> 30b4335 (Adventureworks)
       "System.Text.Encodings.Web": {
         "type": "Transitive",
         "resolved": "7.0.0",
@@ -824,8 +746,6 @@
         "type": "Transitive",
         "resolved": "4.5.4",
         "contentHash": "zteT+G8xuGu6mS+mzDzYXbzS7rd3K6Fjb9RiZlYlJPam2/hU7JCBZBVEcywNuR+oZ1ncTvc/cq0faRr3P01OVg=="
-<<<<<<< HEAD
-=======
       },
       "System.Windows.Extensions": {
         "type": "Transitive",
@@ -834,7 +754,6 @@
         "dependencies": {
           "System.Drawing.Common": "6.0.0"
         }
->>>>>>> 30b4335 (Adventureworks)
       }
     }
   }
