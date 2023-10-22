@@ -9,17 +9,10 @@
     },
     "api": {
         "type": "openapi",
-<<<<<<< HEAD
-        "url": "https://localhost:7012/swagger/v1/swagger.yaml",
-        "is_user_authenticated": false
-    },
-    "logo_url": "https://localhost:7012/.well-known/logo.png",
-=======
         "url": "https://localhost:5279/swagger/v1/swagger.yaml",
         "is_user_authenticated": false
     },
     "logo_url": "https://localhost:5279/.well-known/logo.png",
->>>>>>> 30b4335 (Adventureworks)
     "contact_email": "contact@example.com",
     "legal_info_url": "http://www.example.com/legal"
 }

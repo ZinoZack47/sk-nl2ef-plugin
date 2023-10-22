@@ -15,11 +15,7 @@ builder.Services.AddCors((options) =>
     options.AddDefaultPolicy((policy) =>
     {
         policy
-<<<<<<< HEAD
-            .WithOrigins("https://chat.openai.com", "https://localhost:7012")
-=======
             .WithOrigins("https://chat.openai.com", "https://localhost:5279")
->>>>>>> 30b4335 (Adventureworks)
             .AllowAnyHeader()
             .AllowAnyMethod();
     });
@@ -31,11 +27,7 @@ builder.Services
 
 builder.Services.AddDbContext<AppDbContext>((options) =>
 {
-<<<<<<< HEAD
-    options.UseSqlite("Data Source=movies.sqlite;Mode=ReadOnly");
-=======
     options.UseSqlite("Data Source=AdventureWorksLT.lite;Mode=ReadOnly");
->>>>>>> 30b4335 (Adventureworks)
 });
 
 builder.Services.AddSemanticKernel();
